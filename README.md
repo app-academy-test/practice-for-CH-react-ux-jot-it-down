@@ -1,4 +1,4 @@
-# JotItDown
+# Jot-It-Down
 
 This exercise will help you practice creating usable, visually pleasing layouts
 around existing content.
